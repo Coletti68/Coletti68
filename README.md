@@ -58,7 +58,8 @@
 </h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/facundo-jesús-coletti-a6561a342" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
- <a href="mailto:facundocoletti@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - Facundo Coletti" />
+     <a href="https://coletti68.github.io/Portfolio"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+     <a href="https://www.linkedin.com/in/facundo-jesús-coletti-a6561a342" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+     <a href="mailto:facundocoletti@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - Facundo Coletti" />
 </a>
 </p>
